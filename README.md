@@ -3,7 +3,8 @@
 ### 🚀 Apprentice Software Engineer at Zone 01
 
 I am an aspiring developer honing my skills at Zone 01, immersed in peer-to-peer learning and collective intelligence. I enjoy building efficient backend logic, designing sleek user interfaces, and solving complex algorithmic challenges.
-
+---
+rouwel.github.io/Rouwel-Mwangu/
 ---
 23/9/2026
 ---
